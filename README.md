@@ -1,2 +1,2 @@
 # CLI-Calculator
-The CLI Calculator App is a Python-based terminal tool that performs basic arithmetic operations like addition, subtraction, multiplication, division, exponentiation, and modulus.
+I built a simple yet efficient Command Line Calculator App using Python. It performs basic arithmetic operations like addition, subtraction, multiplication, division, exponentiation, and modulus — all from the terminal. I implemented input validation to handle user errors and added a feature that logs every calculation with a timestamp in a text file. The project helped me practice Python functions, loops, and file handling while creating a clean, easy-to-use tool that works completely in the command line.
